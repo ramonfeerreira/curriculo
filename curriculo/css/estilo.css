@@ -1,0 +1,44 @@
+
+/*reset*/
+.classe1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+
+}
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    /*background: #cccccc;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+    color:#5771a8;
+    background-image: url("../img/praia-e-acesso-a-pe-para.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: top left;/*/
+
+}
+
+header{
+    background:#ccc;
+    padding: 10px 15px 10px 15px;
+    border:5px solid red;
+    
+    /* topo;direita;baixo;esquerda*/
+    /*
+    padding-right:20px;
+    padding-bottom:10px;
+    padding-left:20px;
+    padding-top:10px;/*/
+}
+.foto-do-perfil{
+    margin: 10px 15px 10px 15px;
+    width: 150px;
+    /*border-radius: 150px;
+    margin-right: 10px;*/
